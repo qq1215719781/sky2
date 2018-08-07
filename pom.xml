@@ -69,7 +69,7 @@
 
   <dependencies>
     <!--dependency>
-      <groupId>com.hospital.maven</groupId>
+      <groupId>com.hospital.controller</groupId>
       <artifactId>[the artifact id of the block to be mounted]</artifactId>
       <version>1.0-SNAPSHOT</version>
     </dependency-->
